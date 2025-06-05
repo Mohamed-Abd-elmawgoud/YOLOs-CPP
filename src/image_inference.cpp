@@ -55,7 +55,7 @@ int main(){
 
     // Paths to the model, labels, and test image
     const std::string labelsPath = "../models/coco.names";
-    const std::string imagePath = "../data/dog.jpg";           // Primary image path
+    const std::string imagePath = "/home/dell/Pictures/Family IDs/pedestrians.jpeg";           // Primary image path
 
     // Uncomment the desired image path for testing
     // const std::string imagePath = "../data/happy_dogs.jpg";  // Alternate image
